@@ -1,8 +1,13 @@
 # Employee_Registration
 
-<p>Here i created a backend of user for  employee sign-up/login.
-  I have also JWT using for authentication.
-  i have used mysql database with knex <p>
+<p>Here i created a backend of user-employee registration.
+  
+ * I have used JWT for authentication.
+  * i have used mysql database with knex.
+  * password verification i implemented bcrypt.
+  * after registration user-employee can update and delete his data.
+  * user can search other employee by unique id,firstname,lastname,and email.
+  * user can also get data of other employee in assending order by firstname, lastname, and email <p>
   
   
   ------
